@@ -1,6 +1,6 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
 
-## IMPORTANT: This theme is under development. There are many aspects of the code which need work. Your support makes a huge difference.
+**IMPORTANT:** This theme is under development. There are many aspects of the code which need work and functionalities that need refinments. Your support makes a huge difference.
 
 ![aubade](screenshots/cover.png)
 

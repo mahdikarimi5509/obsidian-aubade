@@ -45,3 +45,12 @@ For the intended experience, ensure the following fonts are installed on your sy
 * **Interface:** [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 * **Text:** [Azeret Mono](https://fonts.google.com/specimen/Azeret+Mono) or Space Mono
 
+## Gallery
+### Dark Mode
+![Aubade Dark Mode](screenshot.png)
+
+### Light Mode
+*Features distinct accents and clear visual hierarchy.*
+![Aubade Light Mode](screenshot-light.png)
+
+

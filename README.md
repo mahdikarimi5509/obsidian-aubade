@@ -28,41 +28,14 @@ A cool, blue-grey palette (`#DDE6ED` base) offering a clean, architectural look 
 
 ## Preset Gallery
 
-### Default
-![Default](screenshots/default.png)
-
-### Reader
-![Reader](screenshots/reader.png)
-
-### Ambar
-![Ambar](screenshots/ambar.png)
-
-### Solarised
-![Solarised](screenshots/solarised.png)
-
-### Midnight
-![Midnight](screenshots/midnight.png)
-
-### Sunset
-![Sunset](screenshots/sunset.png)
-
-### Ocean
-![Ocean](screenshots/ocean.png)
-
-### Forest
-![Forest](screenshots/forest.png)
-
-### Lavender
-![Lavender](screenshots/lavender.png)
-
-### Warm
-![Warm](screenshots/warm.png)
-
-### Cool
-![Cool](screenshots/cool.png)
-
-### Monochrome
-![Monochrome](screenshots/monochrome.png)
+| | |
+|:---:|:---:|
+| **Default**<br>![Default](screenshots/default.png) | **Reader**<br>![Reader](screenshots/reader.png) |
+| **Ambar**<br>![Ambar](screenshots/ambar.png) | **Solarised**<br>![Solarised](screenshots/solarised.png) |
+| **Midnight**<br>![Midnight](screenshots/midnight.png) | **Sunset**<br>![Sunset](screenshots/sunset.png) |
+| **Ocean**<br>![Ocean](screenshots/ocean.png) | **Forest**<br>![Forest](screenshots/forest.png) |
+| **Lavender**<br>![Lavender](screenshots/lavender.png) | **Warm**<br>![Warm](screenshots/warm.png) |
+| **Cool**<br>![Cool](screenshots/cool.png) | **Monochrome**<br>![Monochrome](screenshots/monochrome.png) |
 
 ## Key Features
 

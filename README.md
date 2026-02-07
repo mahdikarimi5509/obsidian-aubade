@@ -23,6 +23,7 @@
 | **Ocean**<br>![Ocean](screenshots/ocean.png) | **Forest**<br>![Forest](screenshots/forest.png) |
 | **Lavender**<br>![Lavender](screenshots/lavender.png) | **Warm**<br>![Warm](screenshots/warm.png) |
 | **Cool**<br>![Cool](screenshots/cool.png) | **Monochrome**<br>![Monochrome](screenshots/monochrome.png) |
+| **Brutalist**<br>![Brutalist](screenshots/brutalist.png) | |
 
 ## Key Features
 

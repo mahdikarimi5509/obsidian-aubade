@@ -108,14 +108,22 @@ To activate, add `cssclasses: dashboard` to your note's frontmatter. Every Callo
 
 ```markdown
 ---
-cssclasses: dashboard
+cssclasses:
+  - dashboard
 ---
 
-> [!note] Link 1
-> Content here...
+> [!abstract] General
+> - [[Link 1]]
+> - [[Link 2]]
 
-> [!note] Link 2
-> Content here...
+> [!abstract] Essays
+> - [[Link A]]
+> - [[Link B]]
+> - [[Link C]]
+
+> [!abstract] Projects
+> - [[Project X]]
+> - [[Project Y]]
 ```
 
 ## Installation

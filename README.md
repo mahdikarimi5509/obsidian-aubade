@@ -113,14 +113,13 @@ To activate, add `cssclasses: dashboard` to your note's frontmatter. Every Callo
 cssclasses: dashboard
 ---
 
-> [!info] My Card
 > - [[Link 1]]
 > - [[Link 2]]
 ```
 
 ## Installation
 
-### Method 1: Community Themes
+### Method 1: Community Themes (CURRENTLY PENDING REVIEW BY OBSIDIAN)
 1. Open **Settings** > **Appearance**.
 2. Click **Manage** under Themes.
 3. Search for **Aubade**.

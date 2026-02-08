@@ -16,7 +16,7 @@
 | | |
 |:---:|:---:|
 | **Default**<br>![Default](screenshots/default.png) | **Reader**<br>![Reader](screenshots/reader.png) |
-| **Ambar**<br>![Ambar](screenshots/ambar.png) | **Solarised**<br>![Solarised](screenshots/solarised.png) |
+| **Amber**<br>![Amber](screenshots/ambar.png) | **Solarized**<br>![Solarized](screenshots/solarised.png) |
 | **Midnight**<br>![Midnight](screenshots/midnight.png) | **Sunset**<br>![Sunset](screenshots/sunset.png) |
 | **Ocean**<br>![Ocean](screenshots/ocean.png) | **Forest**<br>![Forest](screenshots/forest.png) |
 | **Lavender**<br>![Lavender](screenshots/lavender.png) | **Warm**<br>![Warm](screenshots/warm.png) |
@@ -52,7 +52,7 @@ This theme contains the following typefaces:
 
 **Clarification:** Typefaces are embedded within the theme, ensuring they are available offline and on any device without requiring local installation.
 
-On Style settings, you can chose any of these fonts for either Body or UI and Headers.
+In **Style Settings**, you can choose any of these fonts for either the Body or the UI/Headers.
 
 ## Layout & Configuration
 
@@ -64,14 +64,13 @@ Modify the text alignment of your notes using the dropdown menu:
 * Right aligned
 * Centre aligned
 * Justified
-### Note Width Control
 
+### Note Width Control
 When Obsidian's **"Readable line length"** setting is enabled, the editor width defaults to **700px**. You can adjust this global maximum width in Style Settings using a slider ranging from **500px** to **1600px**.
 
 > **Note on Mobile:** These width constraints apply to **Desktop** only. On mobile devices, the theme automatically fits content to the screen width.
 
 ### Typography Settings
-
 * **Line Height:** Adjust line spacing between **1.0** and **3.0** (Default: 1.5).
 * **Inline Title Size:** Adjust the size of the inline title between **1.0em** and **5.0em** (Default: 3em).
 
@@ -80,9 +79,7 @@ When Obsidian's **"Readable line length"** setting is enabled, the editor width 
 Use the `cssclasses` property in your frontmatter (YAML) to override global settings for specific files. These classes function regardless of your global "Readable line length" setting.
 
 ### Custom Widths
-
 Useful for notes containing wide tables or diagrams:
-
 * `width-800` (800px)
 * `width-900` (900px)
 * `width-1000` (1000px)
@@ -91,19 +88,21 @@ Useful for notes containing wide tables or diagrams:
 * `full-width` (100% of pane width)
 
 ### Interface Hiding
-To hide the frontmatter and note title for a specific note:
+To hide the frontmatter, inline title, and property metadata for a specific note:
 * `hide-all`
 
 **Example:**
 ```yaml
 ---
-cssclasses: width-1200, hide-all
+cssclasses:
+  - width-1200
+  - hide-all
 ---
 ```
 
 ## Dashboard & Masonry Layout
 
-The theme allows you to organise your notes into a clean, visual grid. The system supports native **Obsidian Callouts** and automatically handles column distribution (2 columns by default, 3 on wide screens, 1 on mobile).
+The theme allows you to organise your notes into a clean, visual grid. The system supports native **Obsidian Callouts** and automatically handles column distribution (responsive flow).
 
 To activate, add `cssclasses: dashboard` to your note's frontmatter. Every Callout within that note will transform into a masonry card.
 
@@ -112,8 +111,11 @@ To activate, add `cssclasses: dashboard` to your note's frontmatter. Every Callo
 cssclasses: dashboard
 ---
 
-> - [[Link 1]]
-> - [[Link 2]]
+> [!note] Link 1
+> Content here...
+
+> [!note] Link 2
+> Content here...
 ```
 
 ## Installation

